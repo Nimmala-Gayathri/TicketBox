@@ -1,0 +1,30 @@
+.page1{
+    /* display: flex !important;
+    justify-content: space-between; */
+    margin: 1rem;
+    border-bottom: 1px solid gray;
+
+}
+.loginPage{
+    background-color: #f54236;
+    height: 87vh;
+
+}
+/* .LoginForm{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+} */
+.formStyle{
+    height: 30rem;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1.5rem;
+}
+.input{
+   border: none !important; 
+   border-bottom:2px solid gray !important;
+   margin: 1rem 0 !important;
+   font-size: 1.3rem !important;
+   font-weight: lighter !important;
+}
